@@ -1,0 +1,3 @@
+[submodule "pYatnitsa"]
+	path = pYatnitsa
+	url = https://github.com/vkz/pYatnitsa.git
